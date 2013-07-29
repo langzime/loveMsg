@@ -1,4 +1,4 @@
-package com.wyq.lovemsg;
+package com.wyq.lovemsg.web;
 
 import java.text.DateFormat;
 import java.util.Date;
